@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "395439263487",
+    "project_id": "wheare-is-my-friend",
+    "storage_bucket": "wheare-is-my-friend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395439263487:android:af854db2e2fae65f4406ca",
+        "android_client_info": {
+          "package_name": "com.example.wheareismyfriend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC9h48lAQeQeNH2dCaABiU5icB1TaHF8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
